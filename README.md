@@ -21,7 +21,7 @@ LOCATION  : INDONESIA
 ABOUT : THIS IS JUST A REGULAR GITHUB PROJECT 
 CODING ACCORDING TO MOOD 😂❣️👊
 
-# Tools Favorite
+# TOOLS FAVORITE
 <p align="center">
   <img src="https://img.shields.io/badge/Brave-000000?style=for-the-badge&logo=Brave&logoColor=white" />
   <img src="https://img.shields.io/badge/Tor_Browser-000000?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
@@ -34,10 +34,10 @@ CODING ACCORDING TO MOOD 😂❣️👊
 </p>
 
 <p align="left">
-  <img src="https://files.catbox.moe/1645b8.jpg" alt="L7P13XPL01T" />
+  <img src="https://i.top4top.io/m_3568wagca0.mp4" alt="L7P13XPL01T" />
 </p>
 
-# my contact
+# MY CONTACT
 <p align="center">
   <a href="https://t.me/L7P13XPL01T">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
