@@ -12,7 +12,7 @@
 ```css
 [INITIALIZING_CORE]: Accessing secure mainframe...
 ╔══════════════════════════════════════════════╗
-║ OPERATIVE    : N4XX ZERO THREEDER XV.         ║
+║ OPERATIVE    : N4XX ZERO THREEDER XV.        ║
 ║ DESIGNATION  : Digital Warfare Specialist    ║
 ║ UNIT        : Team Illusion Elite            ║
 ║ THREAT_LEVEL: Critical                       ║
